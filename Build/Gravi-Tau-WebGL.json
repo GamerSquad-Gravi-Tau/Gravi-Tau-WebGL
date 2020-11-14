@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Kyle-CombiningPrototypes",
+"productVersion": "0.1",
+"dataUrl": "Gravi-Tau-WebGL.data.unityweb",
+"wasmCodeUrl": "Gravi-Tau-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Gravi-Tau-WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
