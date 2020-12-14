@@ -1,0 +1,16 @@
+{
+"companyName": "GamerSquad",
+"productName": "Gravi-tau",
+"productVersion": "0.1",
+"dataUrl": "Gravi-Tau_WebGL.data.unityweb",
+"wasmCodeUrl": "Gravi-Tau_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Gravi-Tau_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
